@@ -47,7 +47,7 @@ function setup() {
     mainColor.saturation = 255;
     waveColor.saturation = 0;
 
-    logoTexture = loadImage("./resources/blueEarth.png");
+    //logoTexture = loadImage("./resources/blueEarth.png");
     //logoGraphic = createGraphics(1000, 400, WEBGL);
 
     
